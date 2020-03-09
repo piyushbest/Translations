@@ -1,3 +1,18 @@
 {
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "default": "eng",
+  "languages": {
+    "eng": {
+      "name": "English",
+      "data": "https://"
+    },
+    "ces": {
+      "name": "Czech",
+      "data": "https://"
+    },
+    "arb": {
+      "name": "Arabic",
+      "data": "https://githubusercontents.com/..."
+    }
+  }
 }
