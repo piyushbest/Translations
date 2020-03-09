@@ -1,0 +1,25 @@
+---
+# Prefixes
+prefix.game: §9Game> §7
+prefix.account: §9Account> §7
+prefix.crates: §9Crates> §7
+prefix.chat: §9Chat> §7
+prefix.anticheat: §9AntiCheat> §7
+prefix.gadgets: §9Gadgets> §7
+prefix.particles: §9Particles> §7
+prefix.pets: §9Pets> §7
+
+prefix.vanilla: §9Survival> §7
+prefix.skywars: §9SkyWars> §7
+prefix.thebridge: §9TheBridge> §7
+prefix.eggwars: §9EggWars> §7
+prefix.uhcrun: §9UHCRun> §7
+prefix.duels: §9Duels> §7
+
+message.join-title: §2WELCOME BACK
+message.join-subtitle: §aon §fBedrock§6Play
+message.account-authenticated: §aYou were automatically logged in
+message.fly-enabled: §aFlying mode turned on!
+message.join-staff: §aStaff {%0} joined the game!
+message.join-bedrock: §a{%0} joined the game!
+...
