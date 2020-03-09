@@ -4,15 +4,15 @@
   "languages": {
     "eng": {
       "name": "English",
-      "data": "https://"
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/eng.yml"
     },
     "ces": {
       "name": "Czech",
-      "data": "https://"
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/ces.yml"
     },
     "arb": {
       "name": "Arabic",
-      "data": "https://githubusercontents.com/..."
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/arb.yml"
     }
   }
 }
