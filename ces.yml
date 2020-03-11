@@ -1,0 +1,74 @@
+---
+# Prefixes
+prefix.game: §9Hra> §7
+prefix.server: §9Server> §7
+prefix.account: §9Ucet> §7
+prefix.crates: §9Poklad> §7
+prefix.chat: §9Chat> §7
+prefix.anticheat: §9AntiCheat> §7
+prefix.gadgets: §9Gadgety> §7
+prefix.particles: §9Particly> §7
+prefix.pets: §9Pets> §7
+
+# MiniGame sub-prefixes
+prefix.join: §8Pripojeni> §7
+prefix.quit: §8Odpojeni> §7
+
+# MiniGame prefixes
+prefix.vanilla: §9Survival> §7
+prefix.skywars: §9SkyWars> §7
+prefix.thebridge: §9TheBridge> §7
+prefix.eggwars: §9EggWars> §7
+prefix.uhcrun: §9UHCRun> §7
+prefix.duels: §9Duels> §7
+
+# Ranks
+rank.owner: Majitel
+rank.admin: Admin
+rank.mod: Mod
+rank.helper: Helper
+rank.builder: Builder
+rank.trainee: Praktikant
+rank.developer: Vyvojar
+rank.youtube: YouTube
+rank.bedrock: Bedrock
+rank.voter: Hlasujici
+rank.guest: Guest
+
+# Scoreboards
+scoreboard.lobby:
+  - "§6§lBEDROCK PLAY"
+  - ""
+  - "§b§lOnline:"
+  - "§f  {%0}"
+  - ""
+  - "§a§lKrystaly:"
+  - "§f  {%1}"
+  - ""
+  - "§e§lMince:"
+  - "§f  {%2}"
+  - ""
+  - "§6§lRank:"
+  - "§f  {%3}"
+  - ""
+  - "§emc.bedrockplay.eu"
+  
+ 
+# Lobby messages
+message.join-title: §2VÍTEJ ZPĚT
+message.join-subtitle: §ana §fBedrock§6Play
+message.account-authenticated: §aByl jsi automaticky přihlášen přes Xbox účet.
+message.fly-enabled: §aLétání bylo zapnuto!
+message.join-staff: §aČlen AdminTeamu, {%0}§a se připojil!
+message.join-bedrock: §9BEDROCK {%0}§a se připojil!
+message.minigame-underdev: §cTento server je ve vývoji
+
+# Lobby chat messages
+message.muted: §cByla zablokována tvoje aktivita v chatu. Počkej {%0} abys mohl chatovat znovu.
+message.chat-caps: §cNepoužívej velká písmena při psaní!
+message.chat-advertisement: §cReklama není povolena!
+message.chat-limit: §6Počkej {%0} sekund abys mohl psát znovu.
+
+# Survival messages
+message.spawnpoint: §aPočáteční pozice byla úspěšně nastavena!
+...
