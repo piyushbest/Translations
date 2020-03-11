@@ -62,6 +62,7 @@ message.fly-enabled: §aFlying mode turned on!
 message.join-staff: §aStaff {%0}§a joined the game!
 message.join-bedrock: §9BEDROCK {%0}§a joined the game!
 message.minigame-underdev: §cThis server is under development.
+message.lang-changed: §aLanguage was updated to English.
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
